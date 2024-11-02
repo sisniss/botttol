@@ -1,0 +1,11 @@
+pandas
+pyTelegramBotAPI
+aiohttp
+openpyxl
+aiogram
+Pillow
+openpyxl==3.1.2  # Untuk membaca file .xlsx
+Pillow==9.2.0    # Untuk bekerja dengan gambar (PIL)
+xlrd==1.2.0      # Untuk membaca file .xls (tanpa dukungan gambar)
+olefile==0.46    # Jika Anda bekerja dengan file OLE (digunakan oleh beberapa file .xls)
+xlwings
